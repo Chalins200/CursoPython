@@ -1,0 +1,6 @@
+id;nombre;apellido;edad;diabetico
+1;Juan;Perez;42;Si
+2;Jose;García;15;No
+3;Manuel;Rodriguez;50;Si
+4;Alicia;Ramirez;12;No
+5;Lucas;Lucyk;25;No
